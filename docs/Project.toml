@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+SIR_package = "80388264-8999-441e-86b3-a54ba8f050f2"
